@@ -21,3 +21,9 @@ To compile and run Minishell, follow these steps:
    ```bash
    git clone https://github.com/yourusername/minishell.git
    cd minishell
+2. **Compile minishell**
+    ```bash
+    make
+2. **Execute minishell**:
+    ```bash
+    ./minishell
