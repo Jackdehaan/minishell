@@ -1,6 +1,6 @@
 # Minishell
 
-Minishell is a simple shell implementation inspired by the functionalities of the bash shell. This project is part of the 42 Network curriculum and aims to enhance understanding of process management, command execution, and signal handling in a Unix-like environment.
+Minishell is a shell implementation inspired by the functionalities of the bash shell. This project is part of the 42 Network curriculum and aims to enhance understanding of process management, command execution, and signal handling in a Unix-like environment.
 
 ![Minishell Screenshot](images/minishell_screenshot.png)
 
