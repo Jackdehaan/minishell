@@ -19,8 +19,7 @@ To compile and run Minishell, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/minishell.git
-   cd minishell
+   git clone git@github.com:Jackdehaan/minishell.git
 2. **Compile minishell**
     ```bash
     make
